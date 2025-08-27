@@ -115,7 +115,7 @@
         <module name="ReturnCount">
             <property name="max" value="4"/>
         </module>
-        <module name="NestedTryDepth ">
+        <module name="NestedTryDepth">
             <property name="max" value="4"/>
         </module>
         <module name="SuperFinalize"/>
